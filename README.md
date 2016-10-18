@@ -1,6 +1,6 @@
 #安装
 ```
-go get github.com/nybuxtsui/cache
+go get github.com/trygo/cache
 ```
 
 #使用
@@ -8,7 +8,7 @@ go get github.com/nybuxtsui/cache
 package main
 
 import (
-    "github.com/nybuxtsui/cache"
+    "github.com/trygo/cache"
     "log"
     "time"
 )
