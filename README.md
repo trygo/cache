@@ -1,6 +1,6 @@
 #安装
 ```
-go get github.com/trygo/cache
+go get -u github.com/trygo/cache
 ```
 
 #使用
